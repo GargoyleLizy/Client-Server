@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Client-Server</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name= "server_text"> Server Text! </string>
+    <string name="server_start_button_text"> Server Start button </string>
+</resources>
